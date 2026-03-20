@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# local uploads, not versioned
+uploads/
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+
+# env files
+.env
+.env.local
+
+*.log
+venv/
